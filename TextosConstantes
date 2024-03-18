@@ -1,0 +1,19 @@
+/**
+ * Clase estática que contiene constantes para textos fijos utilizados en pantalla.
+ */
+public class TextosConstantes {
+    /**
+     * Texto que indica que se ha agregado un nuevo empleado.
+     */
+    public static final String MENSAJE_EMPLEADO_AGREGADO = "Nuevo empleado añadido: ";
+
+    /**
+     * Texto que indica que se ha aumentado el salario de un empleado.
+     */
+    public static final String MENSAJE_SALARIO_AUMENTADO = "Se aumentó el salario de ";
+
+    /**
+     * Texto que indica que no se encontró ningún empleado con el nombre especificado.
+     */
+    public static final String MENSAJE_NO_EMPLEADO_ENCONTRADO = "No se encontró ningún empleado con ese nombre.";
+}
